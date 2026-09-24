@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Felipe da Costa 👋
 
-**IT Supervisor | Web Software Developer |**
+**IT Supervisor | Web Software Developer**
 
 I am a software developer with a Bachelor's degree in Information Systems from UNIVÁS, currently working as an IT Supervisor and web developer at Hospitalar Soluções em Saúde. I specialize in building robust backend architectures and decoupled web systems, always striving to write clean, maintainable, and strictly encapsulated code.
 
